@@ -1,6 +1,6 @@
 [input]
 html_selector = "main"
-base_directory = "output"
+base_directory = "/home/slice/Projects/ps70/website/output"
 
 [[input.files]]
 path = "pages/about-me.html"
