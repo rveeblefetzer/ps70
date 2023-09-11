@@ -1,0 +1,18 @@
+[input]
+html_selector = "main"
+base_directory = "output"
+
+[[input.files]]
+path = "pages/about-me.html"
+url = "/pages/about-me.html"
+title = "About me"
+
+[[input.files]]
+path = "init.html"
+url = "/init.html"
+title = "Init"
+
+[[input.files]]
+path = "week-1-introduction.html"
+url = "/week-1-introduction.html"
+title = "Week 1: Introduction"
